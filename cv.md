@@ -19,3 +19,16 @@ I took part in several internships (Edavoz.by, ZNS) at Startups, so I have exper
 In addition to my knowledge base, I actively seek out new technologies and try to stay up-to-date on industry trends and advancements. I am open to learning new information. My professional interests I would preferably learn are JavaScript technologies (s/a Angular, React, Node.js).
 
 ***
+
+### ~ SKILLS ~ 
+* HTML5
+* CSS3
+* JavaScript
+* DOM
+* AJAX
+* Git, GitHub
+* Trello
+* VS Code
+* Figma
+
+***
