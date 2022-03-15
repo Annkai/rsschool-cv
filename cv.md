@@ -69,3 +69,18 @@ function removeChar(str) {
     * Bootstrap Grid Layout
 
 ***
+
+### ~ EDUCATION ~
+* **In progress** RS Schools "JavaScript/Front-end. Stage 1"
+* **2022** RS Schools "JavaScript/Front-end. Stage 0"
+
+![This is an image](./assets/img/radoy4h9.jpg)
+
+* **2019** IT Academy "Web application development with JavaScript"
+
+![This is an image](./assets/img/radoy4h9.jpg)
+
+* **2014** Belarusian State Technological University / Economic Engineering Faculty\
+Specialization: Marketing
+
+***
