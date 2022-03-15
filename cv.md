@@ -32,3 +32,21 @@ In addition to my knowledge base, I actively seek out new technologies and try t
 * Figma
 
 ***
+
+### ~ CODE EXAMPLE ~
+ **_Task: Create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters._**
+
+ ```
+function removeChar(str) {
+    let result = '';
+
+    for (let i = 0; i < str.length; i++) {
+        if (i !== 0 && i !== str.length - 1) {
+            result = `${result}${str[i]}`;
+        }
+    }
+    return result;
+};
+```
+
+***
