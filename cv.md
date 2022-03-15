@@ -50,3 +50,22 @@ function removeChar(str) {
 ```
 
 ***
+
+### ~ WORK EXPERIENCE ~
+
+**2020 Intern Front-end Developer, Startups (internship)**
+
+* **Product catalog [(Edavoz.by)](https://github.com/Annkai/Edavoz)** - Order form development (mobile version)
+
+    * Web APIs
+    * Figma prototypes
+
+* **Web application [(ZNS)](https://github.com/Annkai/ZNS)** - An application that helps organize all contacts in one place and increase the efficiency of business or grow up the career ladder
+
+    * Firebase Auth
+    * Firebase Google Auth
+    * Firebase Facebook Auth
+    * Firebase Database
+    * Bootstrap Grid Layout
+
+***
