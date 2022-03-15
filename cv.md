@@ -85,7 +85,5 @@ Specialization: Marketing
 
 ***
 
-***
-
 ### ~ ENGLISH LEVEL ~
 **B1 Intermediate [(EF SET Certificate)](https://www.efset.org/cert/VLYmsu)**
