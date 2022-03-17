@@ -78,7 +78,7 @@ function removeChar(str) {
 
 * **2019** IT Academy "Web application development with JavaScript"
 
-![IT Academy Certificate](./assets/img/radoy4h9.jpg)
+![IT Academy Certificate](./assets/img/it-academy.jpg)
 
 * **2014** Belarusian State Technological University / Economic Engineering Faculty\
 Specialization: Marketing
